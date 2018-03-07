@@ -1,2 +1,2 @@
-# Artficial-Intelligence-
+# Artficial-Intelligence
 Age and gender detection using Keras
